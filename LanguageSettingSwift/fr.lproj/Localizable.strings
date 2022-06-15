@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  LanguageSettingSwift
+
+  Created by Yang on 7/6/2022.
+  
+*/
+
+"Hello, Good morning" = "Bonjour";
+"Goodbye" = "Au revoir";
+"Yes" = "Oui";
+"No" = "Non";
+"Thank you" = "Merci";
+"Love" = "Amour";
+"Good evening" = "Bonsoir";
