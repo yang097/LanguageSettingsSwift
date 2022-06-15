@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  LanguageSettingSwift
+
+  Created by Yang on 7/6/2022.
+  
+*/
+
+"Hello" = "你好";
+"Goodbye" = "再见";
+"Yes" = "是";
+"No" = "否";
+"Thank you" = "谢谢";
+"Love" = "爱";
+"Good morning" = "早上好";
+"Good evening" = "晚上好";
